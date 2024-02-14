@@ -25,7 +25,7 @@ function anti_inject($data){
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Form Validating</title>
-    <link rel="stylesheet" href="icon/css/all.min.css">
+    <link rel="stylesheet" href="all.min.css">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
